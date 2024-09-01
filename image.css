@@ -1,0 +1,45 @@
+h1
+{
+    color: aqua;
+}
+
+.navbar ul
+{
+    list-style-type:none;
+    background-color: gray;
+    padding: 0px;
+    margin: 0px;
+}
+
+.navbar a
+{
+    color: antiquewhite;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+h2
+{
+    color: white;
+    background-color: blueviolet;
+}
+
+body
+{
+    background-image: url(wallpapersden.com_zelda-fanart_2048x1152.jpg)
+}
+li
+{
+    color: antiquewhite;
+    text-align: center;
+}
+div
+{
+    text-align: center;
+}
+p
+{
+color: antiquewhite;
+text-align: center;
+}
